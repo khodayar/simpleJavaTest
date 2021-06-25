@@ -19,9 +19,9 @@ public class DemoApplication {
 
         //second part: comment out the lines 11..14
 
-        new Greeting("hello");
-        new Greeting("world!");
-        System.out.println(myDataHolder);
+        //new Greeting("hello");
+        //new Greeting("world!");
+        //System.out.println(myDataHolder);
 
         // expected output: Hello World!
 
